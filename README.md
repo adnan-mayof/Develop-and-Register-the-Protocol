@@ -1,6 +1,6 @@
 # Step 6 — Develop and Register the Protocol
 
-[← Previous Step: Search the Databases](step-5-search-the-databases/)
+[← Previous Step: Search the Databases](https://github.com/adnan-mayof/Search-the-Databases/)
 
 ---
 

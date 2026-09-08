@@ -1045,10 +1045,10 @@ step-6-develop-and-register-the-protocol/
 
 ---
 
-### Previous Step
+## 🚀 Maya's Journey Continues
 
-**Step 5 — Search the Databases**
+Maya has now **developed and registered** the Protoco
 
-### Next Step
+The next challenge is to conduct the searches across her selected databases.
 
-**Step 7 — Download the Search Results**
+### **[Step 5 —  Download and Manage the Search Results](https://github.com/adnan-mayof/Download-the-Search-Results/blob/main/README.md)**

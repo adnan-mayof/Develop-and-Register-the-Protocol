@@ -1049,6 +1049,10 @@ step-6-develop-and-register-the-protocol/
 
 Maya has now **developed and registered** the Protoco
 
-The next challenge is to conduct the searches across her selected databases.
+The next challenge is to Download and Manage the Search Results.
+
+She is now ready to move to:
+
+### Next Step
 
 ### **[Step 7 —  Download and Manage the Search Results](https://github.com/adnan-mayof/Download-the-Search-Results/blob/main/README.md)**

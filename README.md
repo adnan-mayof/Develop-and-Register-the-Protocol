@@ -1051,4 +1051,4 @@ Maya has now **developed and registered** the Protoco
 
 The next challenge is to conduct the searches across her selected databases.
 
-### **[Step 5 —  Download and Manage the Search Results](https://github.com/adnan-mayof/Download-the-Search-Results/blob/main/README.md)**
+### **[Step 7 —  Download and Manage the Search Results](https://github.com/adnan-mayof/Download-the-Search-Results/blob/main/README.md)**
